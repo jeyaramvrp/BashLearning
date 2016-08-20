@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hi There.. Usual Hello World Stuff.. Sorry"
+#Removed fancy hello world message
+echo "HelloWorld!!!"
